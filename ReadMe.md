@@ -41,7 +41,7 @@ itemized fares, rate types, payment types, and driver-reported passenger
 
 
 ## Data Model
+![My Image](data_model.jpeg)
 
-![Model]([Paste_link_here](https://github.com/shorjin/uber-ETL-project/blob/master/data_model.jpeg?raw=true))
 
 
