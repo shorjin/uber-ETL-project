@@ -10,7 +10,7 @@ Studio.
 ## 
 
 ## Architecture
-![My Image](architecture.jpeg)
+![My Image](architecture.jpg)
 
 
 ## Technology Used
