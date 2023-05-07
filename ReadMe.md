@@ -10,8 +10,8 @@ Studio.
 ## 
 
 ## Architecture
+![My Image](architecture.jpeg)
 
-![](C:\Users\XIAOJIN%20LI\AppData\Roaming\marktext\images\2023-05-06-11-02-49-architecture.jpg)
 
 ## Technology Used
 
